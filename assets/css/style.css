@@ -10,7 +10,7 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background-color: #eff4fd;
+    background-color: rgb(243, 186, 117);
 }
 nav{
     display: flex;
